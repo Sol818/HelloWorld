@@ -1,1 +1,1 @@
-# Sample Application for AWS DevOps Course
+# HelloWorld Static HTML Webpage AWS 
